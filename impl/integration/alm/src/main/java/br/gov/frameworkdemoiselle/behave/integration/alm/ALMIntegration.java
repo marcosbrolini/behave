@@ -286,4 +286,6 @@ public class ALMIntegration implements Integration {
 		return client.execute(request);
 	}
 
+	
+	public void teste() {}
 }
